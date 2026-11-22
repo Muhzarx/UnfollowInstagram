@@ -1,3 +1,26 @@
+# 📊 IG Follower Analyzer
+
+<p align="center">
+  <b>Instagram Followers & Following Analyzer</b><br>
+  Offline • Free • Privacy Friendly
+</p>
+
+<p align="center">
+  <a href="https://muhzarx.github.io/UnfollowInstagram/">
+    🚀 OPEN LIVE DEMO
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/Muhzarx/UnfollowInstagram">
+    ⭐ VIEW SOURCE CODE
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Offline-100%25-success">
+  <img src="https://img.shields.io/badge/Platform-Web-blue">
+  <img src="https://img.shields.io/badge/License-Free-purple">
+</p>
+
 # UnfollowInstagram
 # 📊 IG Follower Analyzer
 
